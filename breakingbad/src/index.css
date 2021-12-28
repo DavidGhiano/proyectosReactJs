@@ -9,9 +9,10 @@ html {
 }
 html {
   height: 100%;
+  background: -webkit-linear-gradient(top left, #FFDD75 0%, #EFC754 40%, #FCC62D 100%);
 }
 body {
-  background-image: url(logo.svg), -webkit-linear-gradient(top left, #FFDD75 0%, #EFC754 40%, #FCC62D 100%);
+  background-image: url(logo.svg);
   min-height: 100%;
   background-position: center 80px, center center;
   background-repeat:no-repeat;

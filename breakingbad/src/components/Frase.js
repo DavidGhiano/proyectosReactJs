@@ -8,10 +8,9 @@ const ContenedorFrase = styled.div`
     border-radius: .5rem;
     background-color: #fff;
     max-width: 800px;
-    margin-top: 10rem;
 
     @media (min-width: 992px){
-        margin-top: 10rem;
+        margin-top: 15rem;
     }
 
     h1{
