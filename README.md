@@ -1,7 +1,8 @@
 # React JS
-Proyectos realizados a travez de un curso de React JS
 
-## Paginas de los proyectos en linea
+## Proyectos realizados a travez de un curso de React JS
+
+### Paginas de los proyectos en linea
 
 - [Citas Medicas Veterinarias](https://stoic-volhard-98771a.netlify.app/)
 
@@ -13,3 +14,5 @@ Proyectos realizados a travez de un curso de React JS
 (originalmente era de Breaking Bad pero obté por usar frases de anime porque dicha API no funcionaba)
 
 - [Clima React.js](https://festive-goodall-9b2e91.netlify.app/)
+
+- [Cotización de Criptomonedas](https://distracted-murdock-4f6743.netlify.app)
