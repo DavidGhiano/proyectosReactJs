@@ -11,7 +11,7 @@
 - [Cotizador de seguro de autos](https://happy-bartik-368e92.netlify.app/)
 
 - [Frase de anime](https://upbeat-knuth-9617c1.netlify.app/)
-(originalmente era de Breaking Bad pero obté por usar frases de anime porque dicha API no funcionaba)
+(originalmente era de Breaking Bad pero opté por usar frases de anime porque dicha API no funcionaba)
 
 - [Clima React.js](https://festive-goodall-9b2e91.netlify.app/)
 
