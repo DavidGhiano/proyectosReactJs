@@ -16,3 +16,6 @@
 - [Clima React.js](https://festive-goodall-9b2e91.netlify.app/)
 
 - [Cotización de Criptomonedas](https://distracted-murdock-4f6743.netlify.app)
+
+- [Buscador de Noticias en Argentina](https://quizzical-minsky-9044c3.netlify.app/)
+(La pagina no funciona ya que la versión gratuita de la API es solo en desarrollo y en producción hay que pagar)
