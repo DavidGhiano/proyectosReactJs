@@ -4,14 +4,19 @@ import PropTypes from 'prop-types';
 
 
 const ListadoNoticias = ({noticias}) => {
+    if (noticias === undefined){
+        return null;
+    }else    
     return (
         <div className="row">
-            {noticias.map(noticia =>(
-                <Noticia
-                    key={noticia.url}
-                    noticia={noticia}
-                />
-            ))}
+            
+            {noticias.map(noticia =>
+                (
+                    <Noticia
+                        key={noticia.url}
+                        noticia={noticia}
+                    />
+                ))}
         </div>
     );
 }
