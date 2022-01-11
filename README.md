@@ -19,3 +19,5 @@
 
 - [Buscador de Noticias en Argentina](https://quizzical-minsky-9044c3.netlify.app/)
 (La pagina no funciona ya que la versión gratuita de la API es solo en desarrollo y en producción hay que pagar)
+
+- [Buscador de imagenes en PixaBay](https://nervous-fermat-1c537a.netlify.app/)
