@@ -6,7 +6,14 @@ const Navegador = styled.nav`
     background-color: red;
 `;
 
-const Header = () => {
+const Header = ( { guardarSeleccionado, guardarId } ) => {
+
+    const irHome = (e) => {
+        e.preventDefault();
+        guardarSeleccionado(false)
+        guardarId(0);
+    }
+
     return (
         <Navegador className="navbar navbar-expand-lg navbar-dark">
             <div className="container-fluid">
@@ -19,7 +26,11 @@ const Header = () => {
                 <div className="collapse navbar-collapse" id="navbarSupportedContent">
                     <ul className="navbar-nav me-auto mb-2 mb-lg-0">
                         <li className="nav-item">
-                            <a className="nav-link active" aria-current="page" href="">Home</a>
+                            <span
+                                onClick= {irHome}
+                                className="nav-link active puntero" 
+                                aria-current="page"
+                            >Home</span>
                         </li>
                     </ul>
                     <div className="d-flex">

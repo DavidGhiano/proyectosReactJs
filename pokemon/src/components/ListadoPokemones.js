@@ -1,7 +1,7 @@
 import React from 'react'
 import Tarjeta from './Tarjeta';
 
-const ListadoPokemones = ({ pokemones }) => {
+const ListadoPokemones = ({ pokemones, guardarId }) => {
     
 
 
@@ -12,8 +12,9 @@ const ListadoPokemones = ({ pokemones }) => {
                     key={parseInt(pokemon.url.slice(34))}
                     id = {parseInt(pokemon.url.slice(34))}
                     pokemon = { pokemon }
+                    guardarId = { guardarId }
                 />
-            )};
+            )}
         </div>
     );
 }
