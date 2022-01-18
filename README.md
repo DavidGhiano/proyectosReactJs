@@ -2,7 +2,7 @@
 
 ## Proyectos realizados a travez de un curso de React JS
 
-### Paginas de los proyectos en linea
+#### Paginas de los proyectos en linea
 
 - [Citas Medicas Veterinarias](https://stoic-volhard-98771a.netlify.app/)
 
@@ -23,3 +23,12 @@
 - [Buscador de imagenes en PixaBay](https://nervous-fermat-1c537a.netlify.app/)
 
 - [Buscador de letras de canciones](https://relaxed-archimedes-099e53.netlify.app/)
+
+- [Buscador de Bebidas](https://wonderful-euler-969b1c.netlify.app/)
+
+
+
+## Proyecto propio en React js
+
+- [Pokemon](https://sad-davinci-75b31e.netlify.app/)
+(Proyecto realizado en React usando PokeAPI)
