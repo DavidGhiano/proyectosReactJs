@@ -6,6 +6,9 @@
 
 - [Citas Medicas Veterinarias](https://stoic-volhard-98771a.netlify.app/)
 
+- [Citas Médicas Veterinarias](https://pedantic-mcnulty-17ad5f.netlify.app/)
+(usando tailwind)
+
 - [Presupuesto de gasto semanal](https://zealous-kalam-d38e8e.netlify.app/)
 
 - [Cotizador de seguro de autos](https://happy-bartik-368e92.netlify.app/)
